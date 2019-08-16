@@ -9,6 +9,7 @@
         "bcbin\\foo\\": "bar/"
       }
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "bcbin",
